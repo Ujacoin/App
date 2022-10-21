@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--To disable dark mode-->
+<!--        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>-->
+<!--        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>-->
+    </style>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1013766578685-0um3tri4unj7k9q1l94qte0cd1uvgqc1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1013766578685-0um3tri4unj7k9q1l94qte0cd1uvgqc1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCApxxI188f9oYyC0jYISrikztUzsDTijo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1013766578685</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.SowApp</string>
+	<key>PROJECT_ID</key>
+	<string>sistabuz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sistabuz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1013766578685:ios:30baa143e2f93368cbb994</string>
+</dict>
+</plist>

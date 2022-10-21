@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26472206452",
+    "project_id": "uja-coin",
+    "storage_bucket": "uja-coin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26472206452:android:5642fe45e23293c5340121",
+        "android_client_info": {
+          "package_name": "com.ujacoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26472206452-bo7lpoa5k015a9rbnr5gufo1g4crnsf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYOOfT73EPx1s8SIO_kvzulUhv2D2-n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26472206452-bo7lpoa5k015a9rbnr5gufo1g4crnsf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
