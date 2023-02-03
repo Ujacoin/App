@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_event_brunch.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_event_brunch.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_event_quinceaneraredo.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_event_quinceaneraredo.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_editprofile.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_editprofile.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_star.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_star.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_event_diadelosmuertos.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_event_diadelosmuertos.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_group_group3.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_group_group3.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_menu.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_menu.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_event_springbreak.jpeg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_event_springbreak.jpeg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_users_1.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_users_1.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_left.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_left.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_logo_logo.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_logo_logo.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_profilepic.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_profilepic.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_users_4.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_users_4.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_dot.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_dot.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_bookmark.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_bookmark.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_bookmarked.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_bookmarked.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_homebg.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_homebg.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_users_2.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_users_2.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_password.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_password.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_likes.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_likes.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_group_group4.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_group_group4.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_online_people4.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_online_people4.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_sendmessage.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_sendmessage.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_passwordfill.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_passwordfill.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_photo.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_photo.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_emptyuser.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_emptyuser.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_right.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_right.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_event_prom.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_event_prom.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_event_graduations.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_event_graduations.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_headerback2.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_headerback2.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_event_homecoming.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_event_homecoming.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_online_people1.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_online_people1.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_comments.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_comments.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_eye.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_eye.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_group_group5.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_group_group5.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_cloudright.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_cloudright.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_user.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_user.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_loginimg.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_loginimg.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_online_people2.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_online_people2.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_logo_fulllogo.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_logo_fulllogo.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_users_assignments.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_users_assignments.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_group_group1.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_group_group1.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_search.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_search.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_views.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_views.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_users.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_users.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_group_group2.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_group_group2.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_checkemail.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_checkemail.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_users_3.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_users_3.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_event_whiteparty.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_event_whiteparty.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_homesecondscreen.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_homesecondscreen.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_pdf.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_pdf.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_event_silentdanceparty.jpg.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_event_silentdanceparty.jpg"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ujacoin.app-debug-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_bg.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_bg.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_online_people3.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_online_people3.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_download.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_download.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_cloudleft.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_cloudleft.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_shared_file.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_shared_file.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_icons_message.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_icons_message.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_replays.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_replays.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_src_assets_images_online_people.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/src_assets_images_online_people.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.ujacoin.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png.flat",
+        "source": "com.ujacoin.app-main-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png"
+    }
+]

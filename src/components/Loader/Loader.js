@@ -32,7 +32,7 @@ const Loader = (props) => {
                     size={'large'}
                     color={Color.fbBlue}
                 /> */}
-                    <BallIndicator color={COLORS.gold} />
+                    <BallIndicator color={COLORS.primarydarkgreen} />
                 </View>
             </View>
         </Modal>
@@ -42,7 +42,7 @@ const Loader = (props) => {
 // define your styles
 const styles = StyleSheet.create({
     loaderbg: {
-      
+
     },
     container: {
         flex: 1,

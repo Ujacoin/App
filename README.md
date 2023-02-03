@@ -1,3 +1,2 @@
-# Ujacoin App
-React native
-Android and iOS
+# sow-sistabiz
+Updated with jenkins

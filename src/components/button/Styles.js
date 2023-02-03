@@ -1,7 +1,21 @@
-import React, {Component, useState} from 'react';
-import {View, Text, StyleSheet, FlatList} from 'react-native';
+import React, { Component, useState } from 'react';
+import { View, Text, StyleSheet, FlatList } from 'react-native';
 import COLORS from '../../assets/color/colors';
+import { fontFamily, fontsize } from '../../common/commonitem';
 export const Buttonstyles = StyleSheet.create({
+  roundbuttoncontainer: {
+    height: 37,
+    width: 37,
+    borderRadius:100,
+    alignItems:'center',
+    justifyContent:'center',
+    backgroundColor:COLORS.primaryblue,
+    marginHorizontal:12,
+  },
+
+  PrimaryButtoncontainer: {
+    width: '100%',
+  },
   borderbuttonBody: {
     height: 48,
     backgroundColor: COLORS.white,
@@ -18,7 +32,7 @@ export const Buttonstyles = StyleSheet.create({
   },
   shadowValue: {
     shadowColor: '#000',
-    shadowOffset: {height: -2, width: 3},
+    shadowOffset: { height: -2, width: 3 },
     shadowOpacity: Platform.OS === 'android' ? 0.4 : 0.5,
     shadowRadius: Platform.OS === 'android' ? 10 : 10,
     elevation: Platform.OS === 'android' ? 10 : 0,
@@ -46,14 +60,17 @@ export const Buttonstyles = StyleSheet.create({
     paddingBottom: 3,
   },
   btncontainer: {
-    backgroundColor: "#1C1939",
-    height: 48,
-    width: 300,
+    backgroundColor: COLORS.primaryyellow,
+    height: 51,
+    width: 285,
     justifyContent: 'center',
     alignItems: 'center',
+    alignSelf: 'center',
     borderRadius: 10,
   },
   btntextcon: {
     color: COLORS.white,
+    fontSize: fontsize.font16,
+    fontFamily: fontFamily.semiBold
   },
 });

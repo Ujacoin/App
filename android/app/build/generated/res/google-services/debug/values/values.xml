@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">26472206452-bo7lpoa5k015a9rbnr5gufo1g4crnsf0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">26472206452</string>
+    <string name="google_api_key" translatable="false">AIzaSyBHYOOfT73EPx1s8SIO_kvzulUhv2D2-n8</string>
+    <string name="google_app_id" translatable="false">1:26472206452:android:5642fe45e23293c5340121</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBHYOOfT73EPx1s8SIO_kvzulUhv2D2-n8</string>
+    <string name="google_storage_bucket" translatable="false">uja-coin.appspot.com</string>
+    <string name="project_id" translatable="false">uja-coin</string>
+</resources>

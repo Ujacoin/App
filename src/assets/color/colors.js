@@ -1,10 +1,15 @@
 export default COLORS = {
+  primaryyellow: '#BEBB30',
+  primarydarkgreen: '#146E79',
+  primaryblue: '#2EA8CF',
+  lightGray: '#D7D7D7',
+
+
   primary: '#FADFDA',
   secondPrimary: '#F87C1E',
   secondary: '#A2845E',
   lightGold: '#D3CCC2',
   gray: '#828282',
-  lightGray: '#EDECEA',
   lightPink: '#FEF7F6',
   white: '#FFFFFF',
   black: '#000000',
@@ -19,8 +24,8 @@ export default COLORS = {
   gold: '#A38B68',
   shadow: '#9D9D9D',
   searchshadow: '#F6F7FB',
-  transparent:'#00000000',
+  transparent: '#00000000',
   sistaPink: '#F06491',
-  hotPink:'#F06491',
-  green:"green"
+  hotPink: '#F06491',
+  green: "green"
 };
