@@ -1,6 +1,7 @@
 import { adjust } from "./responsive";
 
 export const COLORS = {
+    newthemecolor:'#401d62',
     linearGradient1:'#5313AE',
     linearGradient2:'#3972A2',
     primaryyellow: '#5313AE',

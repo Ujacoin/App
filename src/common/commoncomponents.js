@@ -470,6 +470,109 @@ export const ExcusiveResource = (props) => {
         </View>
     );
 }
+export const GroupListHorizontal = (props) => {
+    return (
+        <TouchableOpacity
+                onPress={() => { navigation.navigate('Groupdetail') }}
+                style={{
+                    backgroundColor: '#FFFFFF',
+                    ...boxShadow,
+                    marginBottom: 10,
+                    overflow: 'hidden',
+                    borderRadius: 10,
+                    width:300,
+
+                }}>
+                <View>
+                    <Image source={props.image} style={{ height: 150, width: '100%' }} />
+                </View>
+                <View style={{
+                    marginLeft: 3,
+                    paddingLeft: 15,
+                    paddingRight: 15,
+                    paddingVertical: 15,
+
+                }}>
+
+                    <View
+                        style={{
+                            borderWidth: 1,
+                            alignSelf: 'flex-start',
+                            borderRadius: 5,
+                            borderColor: COLORS.primarydarkgreen,
+                            paddingVertical: 5,
+                            paddingHorizontal: 12
+                        }}>
+                        <Text
+                            numberOfLines={1}
+                            style={{
+                                fontFamily: fontFamily.medium,
+                                color: COLORS.primarydarkgreen,
+                                fontSize: fontsize.font10,
+                            }}
+                        >{props.industry}</Text>
+                    </View>
+                    <Space spacenumber={5} />
+                    <Text numberOfLines={1} style={{
+                        fontFamily: fontFamily.medium,
+                        color: COLORS.primaryyellow,
+                        fontSize: fontsize.font10,
+                    }}>
+                        {props.sort}
+                    </Text>
+                    <Text numberOfLines={1} style={{
+                        fontSize: fontsize.font16,
+                        fontFamily: fontFamily.semiBold,
+                        color: COLORS.primarydarkgreen,
+                        marginTop: 5
+                    }}>
+                        {props.name}
+                    </Text>
+                    <Space spacenumber={3} />
+                    <Text numberOfLines={2} style={{
+                        fontSize: fontsize.font11,
+                        fontFamily: fontFamily.regular,
+                        color: COLORS.black,
+                    }}>
+                        {props.shortDesc}
+                    </Text>
+                    <Space spacenumber={3} />
+                    <View style={{ flexDirection: 'row', alignItems: 'center', flex: 1, }}>
+                        <Image source={user1} style={{ height: 30, width: 30, borderRadius: 100, }} />
+                        <Image source={user2} style={{ height: 30, width: 30, borderRadius: 100, left: -15 }} />
+                        <Image source={user3} style={{ height: 30, width: 30, borderRadius: 100, left: -30 }} />
+                    </View>
+                </View>
+                {props.isFavorite &&
+                    <Image
+                        style={{
+                            width: 20,
+                            height: 20,
+                            position: "absolute",
+                            right: 10,
+                            top: 10,
+                        }}
+                        source={require("../assets/images/icons/bookmarked.png")}
+                        resizeMode='contain'
+                    />
+                }
+                {!props.isFavorite &&
+                    <Image
+                        style={{
+                            width: 20,
+                            height: 20,
+                            position: "absolute",
+                            right: 10,
+                            top: 10,
+                        }}
+                        source={require("../assets/images/icons/bookmark.png")}
+                        resizeMode='contain'
+                    />
+                }
+            </TouchableOpacity>
+        )
+    
+}
 export const Memberdata = (props) => {
     return (
         <TouchableOpacity onPress={props.onPress} style={{

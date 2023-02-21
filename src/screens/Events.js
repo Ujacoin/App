@@ -94,16 +94,16 @@ const Events = ({ navigation }) => {
             shortDesc:
                 'Happy Friday, y’all! Check out this mentorship.',
         },
-        {
-            id: 8,
-            image: quinceaneraReDo,
-            industry: 'Uja Brunch',
-            name: 'Quinceanera ReDo',
-            sort: 'WED, AUG 12, 11:00 am',
-            paid:true,
-            shortDesc:
-                'Happy Friday, y’all! Check out this mentorship.',
-        },
+        // {
+        //     id: 8,
+        //     image: quinceaneraReDo,
+        //     industry: 'Uja Brunch',
+        //     name: 'Quinceanera ReDo',
+        //     sort: 'WED, AUG 12, 11:00 am',
+        //     paid:true,
+        //     shortDesc:
+        //         'Happy Friday, y’all! Check out this mentorship.',
+        // },
         {
             id: 9,
             image: diadeLosMuertos,

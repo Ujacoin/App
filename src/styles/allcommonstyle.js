@@ -1,14 +1,69 @@
 import { StyleSheet } from "react-native";
+import { color } from "react-native-reanimated";
 import { boxShadow, COLORS, fontFamily, fontsize, linehight } from "../common/commonitem";
 import { windowHeight } from "../common/responsive";
 
 const allcommonstyle = StyleSheet.create({
+    accsectionsubtetx:{
+        fontSize: fontsize.font11,
+        fontFamily: fontFamily.regular,
+        paddingHorizontal: 10,
+        color: COLORS.gray,
+    },
+    topsmallheader: {
+        marginHorizontal: 10,
+        fontSize: fontsize.font11,
+        fontFamily: fontFamily.bold,
+        color: COLORS.white,
+        backgroundColor: COLORS.newthemecolor,
+        paddingHorizontal: 20,
+        paddingVertical: 6,
+        borderRadius:100,
+        marginBottom:10,
+        alignSelf:'flex-start'
+    },
+    btnGroup: {
+        flexDirection: 'row',
+        alignItems: "center",
+    },
+    btn: {
+        marginTop: 15,
+        width: 170,
+        backgroundColor: COLORS.white,
+        marginRight: 10,
+        alignItems: 'center',
+        padding: 10,
+        ...boxShadow,
+        height: 220,
+        borderRadius: 10,
+        marginBottom: 10,
+    },
+    btnText: {
+        textAlign: 'center',
+        paddingVertical: 16,
+        fontSize: 14
+    },
+    accsectiontitle: {
+        fontSize: fontsize.font20,
+        fontFamily: fontFamily.bold,
+        color: COLORS.newthemecolor,
+        textAlign: 'left',
+        paddingHorizontal: 10,
+        textTransform: 'uppercase',
+    },
+    accountcontainer: {
+        paddingHorizontal: 10,
+    },
+    paddingmainsection: {
+        paddingHorizontal: 20,
+        paddingVertical: 40,
+    },
     iconcontainer: {
         height: 40,
         width: 40,
         alignItems: 'center',
         justifyContent: "center",
-        marginRight:15,
+        marginRight: 15,
     },
     contactcontainer: {
         flexDirection: 'row',
@@ -231,6 +286,13 @@ const allcommonstyle = StyleSheet.create({
         fontFamily: fontFamily.extraBold,
         color: COLORS.white,
     },
+    homepageTitle: {
+        fontSize: fontsize.font24,
+        fontFamily: fontFamily.extraBold,
+        color: COLORS.white,
+        textTransform: 'uppercase',
+        textAlign: 'right',
+    },
     mainSettingsItem: {
         flexDirection: 'row',
         alignItems: 'center',
@@ -254,7 +316,7 @@ const allcommonstyle = StyleSheet.create({
     roundicon: {
         height: 5,
         width: 5,
-        backgroundColor:COLORS.primaryyellow,
+        backgroundColor: COLORS.primaryyellow,
         borderWidth: 1,
         borderColor: COLORS.primaryyellow,
         borderRadius: 100,
@@ -568,7 +630,7 @@ const allcommonstyle = StyleSheet.create({
         flexDirection: 'column',
     },
     logintop: {
-        height: 215,
+        height: 300,
         alignItems: 'center',
         justifyContent: 'center',
 

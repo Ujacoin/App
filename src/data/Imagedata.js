@@ -5,6 +5,9 @@ export const loginimg = require('../assets/images/loginimg.png');
 export const Profilepic = require('../assets/images/Profile-pic.png'); 
 export const bg = require('../assets/images/bg.png'); 
 export const homebg = require('../assets/images/homebg.png'); 
+export const homebannerbg = require('../assets/images/forbackground/bg-vector-1.png'); 
+export const homesecondscreen = require('../assets/images/forbackground/homesecondscreen.png'); 
+export const homeujabg = require('../assets/images/forbackground/Group-156.png'); 
 
 // event
 export const homecoming = require('../assets/images/event/homecoming.jpg'); 
@@ -51,3 +54,15 @@ export const bookmarkedimg = require("../assets/images/icons/bookmarked.png");
 export const headerback = require("../assets/images/icons/headerback2.png"); 
 export const addbookmarkedimg = require("../assets/images/icons/bookmark.png"); 
 export const editprofile = require("../assets/images/icons/Editprofile.png"); 
+export const homeicon1 = require("../assets/images/icons/homeicon1.png"); 
+export const homeicon2 = require("../assets/images/icons/homeicon2.png"); 
+export const homeicon3 = require("../assets/images/icons/homeicon3.png"); 
+
+
+
+// ujausre
+export const uja1 = require("../assets/images/ujauser/uja1.jpg"); 
+export const uja2 = require("../assets/images/ujauser/uja2.jpg"); 
+export const uja3 = require("../assets/images/ujauser/uja3.jpeg"); 
+export const uja4 = require("../assets/images/ujauser/uja4.jpeg"); 
+
