@@ -80,7 +80,6 @@ const styles = StyleSheet.create({
     },
     words: {
         // paddingLeft: '5%',
-        
     },
     letter: {
         fontSize: fontsize.font12,
